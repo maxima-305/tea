@@ -1,4 +1,4 @@
-name: RDP-AP
+name: RDP-eu
 
 on: workflow_dispatch
 
